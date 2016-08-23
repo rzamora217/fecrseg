@@ -1,6 +1,8 @@
 Fecrseg
 =====
 
-"Fork Fecrseg" to create a new MOOSE-based application.
+MOOSE-based Application for simulating Radiation Induced Segregation (RIS) of Cr in FeCr Alloys
 
-For more information see: [http://mooseframework.org/create-an-app/](http://mooseframework.org/create-an-app/)
+runfecrseg.py is a helpful python script for running the code. To use it, I recommend copying the script outside (but next to) of the fecrseg/ directory, and using it there.
+
+For more MOOSE information see: [http://mooseframework.org/create-an-app/](http://mooseframework.org/create-an-app/)

@@ -705,7 +705,7 @@ if __name__ == "__main__":
     
     # temp, conc, GBbc, xdim, nx, kappa_ccr
     temp_conc_list  = [ \
-    ('700.0','0.03','ideal', 25.0, 125, '1.0')
+    ('500.0','0.03','ideal', 7.46, 37, '1.0')
     ]
     #('500.0','0.03','ideal', 25.0, 125, '1.0'),
     #('500.0','0.03','ideal', 13.9, 70, '1.0'),
@@ -733,7 +733,7 @@ if __name__ == "__main__":
     kappa_csI     = '10.0' # <- Not Used
     nsteps        = 50000
     dose_rate     = 0.00001
-    end_time      = '10000000.0' #1 dpa
+    end_time      = '10000.0' #1 dpa
     fthermal      = False
     use_split     = False
     
